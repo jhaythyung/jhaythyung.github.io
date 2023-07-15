@@ -1,0 +1,116 @@
+body{
+    background-image: url(walp\ 6.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 4000px;
+}
+h1{
+    background-color: lightseagreen;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    position: fixed;
+    width: 100%;
+    margin-top: -10px;
+}
+.foto1 img{
+    width:165px ;
+    height: 220px;
+    box-shadow: 5px 5px  10px 7px gray; 
+}
+.kotak1 {
+    text-align: center;
+}
+.kotak a{
+    text-decoration: none;
+}
+.kotak a:hover{
+    background-color: black;
+    color: white;
+}
+.kotak3{
+    width: 800px;
+    height: 530px;
+    background-color: white;
+    margin: auto;
+}
+.kotak3{
+  margin-right: 200px;
+}
+.anak3{
+    background-color: white;
+}
+.kotak3 span{
+    margin-left: -40px;
+}
+.kotak2{
+    width: 430px;
+    background-color: white;
+}
+.kotak4{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin: auto;
+    font-size: 18px;
+}
+.kotak5{
+    width: 1000px;
+    margin: auto;
+}
+.kotak6{
+    background-color: white;
+    width: 800px;
+}
+.kotak6 span{
+    width: 400px;
+    height: 200px;
+}
+.foto2 img{
+    width: 330px;
+    height: 200px;
+    box-shadow: 5px 5px 10px 5px blue;
+}
+.foto3 img{
+    width: 250px;
+    height: 200px;
+    box-shadow: 5px 5px 10px 5px gray;
+}
+.foto4 img{
+    width: 220px;
+    height: 200px;
+    box-shadow: 5px 5px 10px 5px gray;
+}
+.foto5 img{
+    width: 200px;
+    height: 230px;
+    box-shadow: 5px 5px 10px 5px gray;
+}
+.foto6 img{
+    width: 200px;
+    height:230px;
+    box-shadow: 5px 5px 10px 5px grey;
+    margin: auto;
+    background-color: red;
+}
+.ujung{
+    font-size: 18px;
+    color: blue;
+}
+.kegiatan{
+    font-size: 23px;
+    font-weight: bold;
+}
+/*.kotak2{
+    border: 5px solid red;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: lawngreen;
+    margin: auto;
+    box-shadow: -0px 30px 5px -10px gray;
+}*/
